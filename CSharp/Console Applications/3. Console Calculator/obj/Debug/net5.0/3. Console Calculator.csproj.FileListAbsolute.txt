@@ -1,0 +1,16 @@
+/home/dryerem19/Документы/CSharp/Console Applications/3. Console Calculator/bin/Debug/net5.0/3. Console Calculator
+/home/dryerem19/Документы/CSharp/Console Applications/3. Console Calculator/bin/Debug/net5.0/3. Console Calculator.deps.json
+/home/dryerem19/Документы/CSharp/Console Applications/3. Console Calculator/bin/Debug/net5.0/3. Console Calculator.runtimeconfig.json
+/home/dryerem19/Документы/CSharp/Console Applications/3. Console Calculator/bin/Debug/net5.0/3. Console Calculator.runtimeconfig.dev.json
+/home/dryerem19/Документы/CSharp/Console Applications/3. Console Calculator/bin/Debug/net5.0/3. Console Calculator.dll
+/home/dryerem19/Документы/CSharp/Console Applications/3. Console Calculator/bin/Debug/net5.0/ref/3. Console Calculator.dll
+/home/dryerem19/Документы/CSharp/Console Applications/3. Console Calculator/bin/Debug/net5.0/3. Console Calculator.pdb
+/home/dryerem19/Документы/CSharp/Console Applications/3. Console Calculator/obj/Debug/net5.0/3. Console Calculator.csprojAssemblyReference.cache
+/home/dryerem19/Документы/CSharp/Console Applications/3. Console Calculator/obj/Debug/net5.0/3. Console Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/dryerem19/Документы/CSharp/Console Applications/3. Console Calculator/obj/Debug/net5.0/3. Console Calculator.AssemblyInfoInputs.cache
+/home/dryerem19/Документы/CSharp/Console Applications/3. Console Calculator/obj/Debug/net5.0/3. Console Calculator.AssemblyInfo.cs
+/home/dryerem19/Документы/CSharp/Console Applications/3. Console Calculator/obj/Debug/net5.0/3. Console Calculator.csproj.CoreCompileInputs.cache
+/home/dryerem19/Документы/CSharp/Console Applications/3. Console Calculator/obj/Debug/net5.0/3. Console Calculator.dll
+/home/dryerem19/Документы/CSharp/Console Applications/3. Console Calculator/obj/Debug/net5.0/ref/3. Console Calculator.dll
+/home/dryerem19/Документы/CSharp/Console Applications/3. Console Calculator/obj/Debug/net5.0/3. Console Calculator.pdb
+/home/dryerem19/Документы/CSharp/Console Applications/3. Console Calculator/obj/Debug/net5.0/3. Console Calculator.genruntimeconfig.cache

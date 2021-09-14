@@ -1,0 +1,16 @@
+/home/dryerem19/Документы/CSharp/Console Applications/2. CSharp Type Table/bin/Debug/net5.0/2. CSharp Type Table
+/home/dryerem19/Документы/CSharp/Console Applications/2. CSharp Type Table/bin/Debug/net5.0/2. CSharp Type Table.deps.json
+/home/dryerem19/Документы/CSharp/Console Applications/2. CSharp Type Table/bin/Debug/net5.0/2. CSharp Type Table.runtimeconfig.json
+/home/dryerem19/Документы/CSharp/Console Applications/2. CSharp Type Table/bin/Debug/net5.0/2. CSharp Type Table.runtimeconfig.dev.json
+/home/dryerem19/Документы/CSharp/Console Applications/2. CSharp Type Table/bin/Debug/net5.0/2. CSharp Type Table.dll
+/home/dryerem19/Документы/CSharp/Console Applications/2. CSharp Type Table/bin/Debug/net5.0/ref/2. CSharp Type Table.dll
+/home/dryerem19/Документы/CSharp/Console Applications/2. CSharp Type Table/bin/Debug/net5.0/2. CSharp Type Table.pdb
+/home/dryerem19/Документы/CSharp/Console Applications/2. CSharp Type Table/obj/Debug/net5.0/2. CSharp Type Table.csprojAssemblyReference.cache
+/home/dryerem19/Документы/CSharp/Console Applications/2. CSharp Type Table/obj/Debug/net5.0/2. CSharp Type Table.GeneratedMSBuildEditorConfig.editorconfig
+/home/dryerem19/Документы/CSharp/Console Applications/2. CSharp Type Table/obj/Debug/net5.0/2. CSharp Type Table.AssemblyInfoInputs.cache
+/home/dryerem19/Документы/CSharp/Console Applications/2. CSharp Type Table/obj/Debug/net5.0/2. CSharp Type Table.AssemblyInfo.cs
+/home/dryerem19/Документы/CSharp/Console Applications/2. CSharp Type Table/obj/Debug/net5.0/2. CSharp Type Table.csproj.CoreCompileInputs.cache
+/home/dryerem19/Документы/CSharp/Console Applications/2. CSharp Type Table/obj/Debug/net5.0/2. CSharp Type Table.dll
+/home/dryerem19/Документы/CSharp/Console Applications/2. CSharp Type Table/obj/Debug/net5.0/ref/2. CSharp Type Table.dll
+/home/dryerem19/Документы/CSharp/Console Applications/2. CSharp Type Table/obj/Debug/net5.0/2. CSharp Type Table.pdb
+/home/dryerem19/Документы/CSharp/Console Applications/2. CSharp Type Table/obj/Debug/net5.0/2. CSharp Type Table.genruntimeconfig.cache

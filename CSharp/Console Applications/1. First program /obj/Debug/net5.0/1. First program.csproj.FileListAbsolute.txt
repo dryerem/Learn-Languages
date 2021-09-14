@@ -1,0 +1,16 @@
+/home/dryerem19/Документы/CSharp/Console Applications/1. First program /bin/Debug/net5.0/1. First program
+/home/dryerem19/Документы/CSharp/Console Applications/1. First program /bin/Debug/net5.0/1. First program.deps.json
+/home/dryerem19/Документы/CSharp/Console Applications/1. First program /bin/Debug/net5.0/1. First program.runtimeconfig.json
+/home/dryerem19/Документы/CSharp/Console Applications/1. First program /bin/Debug/net5.0/1. First program.runtimeconfig.dev.json
+/home/dryerem19/Документы/CSharp/Console Applications/1. First program /bin/Debug/net5.0/1. First program.dll
+/home/dryerem19/Документы/CSharp/Console Applications/1. First program /bin/Debug/net5.0/ref/1. First program.dll
+/home/dryerem19/Документы/CSharp/Console Applications/1. First program /bin/Debug/net5.0/1. First program.pdb
+/home/dryerem19/Документы/CSharp/Console Applications/1. First program /obj/Debug/net5.0/1. First program.csprojAssemblyReference.cache
+/home/dryerem19/Документы/CSharp/Console Applications/1. First program /obj/Debug/net5.0/1. First program.GeneratedMSBuildEditorConfig.editorconfig
+/home/dryerem19/Документы/CSharp/Console Applications/1. First program /obj/Debug/net5.0/1. First program.AssemblyInfoInputs.cache
+/home/dryerem19/Документы/CSharp/Console Applications/1. First program /obj/Debug/net5.0/1. First program.AssemblyInfo.cs
+/home/dryerem19/Документы/CSharp/Console Applications/1. First program /obj/Debug/net5.0/1. First program.csproj.CoreCompileInputs.cache
+/home/dryerem19/Документы/CSharp/Console Applications/1. First program /obj/Debug/net5.0/1. First program.dll
+/home/dryerem19/Документы/CSharp/Console Applications/1. First program /obj/Debug/net5.0/ref/1. First program.dll
+/home/dryerem19/Документы/CSharp/Console Applications/1. First program /obj/Debug/net5.0/1. First program.pdb
+/home/dryerem19/Документы/CSharp/Console Applications/1. First program /obj/Debug/net5.0/1. First program.genruntimeconfig.cache
