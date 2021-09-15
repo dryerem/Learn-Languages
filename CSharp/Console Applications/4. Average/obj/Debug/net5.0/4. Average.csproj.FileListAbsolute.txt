@@ -1,0 +1,16 @@
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/4. Average/bin/Debug/net5.0/4. Average
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/4. Average/bin/Debug/net5.0/4. Average.deps.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/4. Average/bin/Debug/net5.0/4. Average.runtimeconfig.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/4. Average/bin/Debug/net5.0/4. Average.runtimeconfig.dev.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/4. Average/bin/Debug/net5.0/4. Average.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/4. Average/bin/Debug/net5.0/ref/4. Average.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/4. Average/bin/Debug/net5.0/4. Average.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/4. Average/obj/Debug/net5.0/4. Average.csprojAssemblyReference.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/4. Average/obj/Debug/net5.0/4. Average.GeneratedMSBuildEditorConfig.editorconfig
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/4. Average/obj/Debug/net5.0/4. Average.AssemblyInfoInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/4. Average/obj/Debug/net5.0/4. Average.AssemblyInfo.cs
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/4. Average/obj/Debug/net5.0/4. Average.csproj.CoreCompileInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/4. Average/obj/Debug/net5.0/4. Average.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/4. Average/obj/Debug/net5.0/ref/4. Average.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/4. Average/obj/Debug/net5.0/4. Average.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/4. Average/obj/Debug/net5.0/4. Average.genruntimeconfig.cache
