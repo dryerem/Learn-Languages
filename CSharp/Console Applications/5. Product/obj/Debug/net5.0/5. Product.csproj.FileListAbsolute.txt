@@ -1,0 +1,16 @@
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/5. Product/bin/Debug/net5.0/5. Product
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/5. Product/bin/Debug/net5.0/5. Product.deps.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/5. Product/bin/Debug/net5.0/5. Product.runtimeconfig.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/5. Product/bin/Debug/net5.0/5. Product.runtimeconfig.dev.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/5. Product/bin/Debug/net5.0/5. Product.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/5. Product/bin/Debug/net5.0/ref/5. Product.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/5. Product/bin/Debug/net5.0/5. Product.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/5. Product/obj/Debug/net5.0/5. Product.csprojAssemblyReference.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/5. Product/obj/Debug/net5.0/5. Product.GeneratedMSBuildEditorConfig.editorconfig
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/5. Product/obj/Debug/net5.0/5. Product.AssemblyInfoInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/5. Product/obj/Debug/net5.0/5. Product.AssemblyInfo.cs
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/5. Product/obj/Debug/net5.0/5. Product.csproj.CoreCompileInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/5. Product/obj/Debug/net5.0/5. Product.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/5. Product/obj/Debug/net5.0/ref/5. Product.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/5. Product/obj/Debug/net5.0/5. Product.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/5. Product/obj/Debug/net5.0/5. Product.genruntimeconfig.cache
