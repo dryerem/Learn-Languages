@@ -1,0 +1,16 @@
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/6. Currency Converter/obj/Debug/net5.0/6. Currency Converter.csprojAssemblyReference.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/6. Currency Converter/obj/Debug/net5.0/6. Currency Converter.GeneratedMSBuildEditorConfig.editorconfig
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/6. Currency Converter/obj/Debug/net5.0/6. Currency Converter.AssemblyInfoInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/6. Currency Converter/obj/Debug/net5.0/6. Currency Converter.AssemblyInfo.cs
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/6. Currency Converter/obj/Debug/net5.0/6. Currency Converter.csproj.CoreCompileInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/6. Currency Converter/bin/Debug/net5.0/6. Currency Converter
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/6. Currency Converter/bin/Debug/net5.0/6. Currency Converter.deps.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/6. Currency Converter/bin/Debug/net5.0/6. Currency Converter.runtimeconfig.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/6. Currency Converter/bin/Debug/net5.0/6. Currency Converter.runtimeconfig.dev.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/6. Currency Converter/bin/Debug/net5.0/6. Currency Converter.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/6. Currency Converter/bin/Debug/net5.0/ref/6. Currency Converter.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/6. Currency Converter/bin/Debug/net5.0/6. Currency Converter.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/6. Currency Converter/obj/Debug/net5.0/6. Currency Converter.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/6. Currency Converter/obj/Debug/net5.0/ref/6. Currency Converter.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/6. Currency Converter/obj/Debug/net5.0/6. Currency Converter.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/6. Currency Converter/obj/Debug/net5.0/6. Currency Converter.genruntimeconfig.cache
