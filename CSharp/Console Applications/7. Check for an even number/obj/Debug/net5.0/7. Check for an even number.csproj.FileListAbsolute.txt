@@ -1,0 +1,16 @@
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/7. Check for an even number/bin/Debug/net5.0/7. Check for an even number
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/7. Check for an even number/bin/Debug/net5.0/7. Check for an even number.deps.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/7. Check for an even number/bin/Debug/net5.0/7. Check for an even number.runtimeconfig.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/7. Check for an even number/bin/Debug/net5.0/7. Check for an even number.runtimeconfig.dev.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/7. Check for an even number/bin/Debug/net5.0/7. Check for an even number.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/7. Check for an even number/bin/Debug/net5.0/ref/7. Check for an even number.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/7. Check for an even number/bin/Debug/net5.0/7. Check for an even number.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/7. Check for an even number/obj/Debug/net5.0/7. Check for an even number.csprojAssemblyReference.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/7. Check for an even number/obj/Debug/net5.0/7. Check for an even number.GeneratedMSBuildEditorConfig.editorconfig
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/7. Check for an even number/obj/Debug/net5.0/7. Check for an even number.AssemblyInfoInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/7. Check for an even number/obj/Debug/net5.0/7. Check for an even number.AssemblyInfo.cs
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/7. Check for an even number/obj/Debug/net5.0/7. Check for an even number.csproj.CoreCompileInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/7. Check for an even number/obj/Debug/net5.0/7. Check for an even number.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/7. Check for an even number/obj/Debug/net5.0/ref/7. Check for an even number.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/7. Check for an even number/obj/Debug/net5.0/7. Check for an even number.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/7. Check for an even number/obj/Debug/net5.0/7. Check for an even number.genruntimeconfig.cache
