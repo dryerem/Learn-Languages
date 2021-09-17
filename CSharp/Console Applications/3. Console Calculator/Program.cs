@@ -42,6 +42,11 @@ namespace Console_Calculator
                     Console.Write(a * b);
                     break;
                 case "/":
+		    if (b == 0)
+		    {
+			Console.WriteLine("Error! Zero division error!");
+			Environment.Exit(1);
+		    }
                     Console.Write(a / b);
                     break;
                 default:

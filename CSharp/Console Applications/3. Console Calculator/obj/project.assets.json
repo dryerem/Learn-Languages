@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dryerem19/Документы/CSharp/Console Applications/3. Console Calculator/3. Console Calculator.csproj",
+      "projectUniqueName": "/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/3. Console Calculator/3. Console Calculator.csproj",
       "projectName": "3. Console Calculator",
-      "projectPath": "/home/dryerem19/Документы/CSharp/Console Applications/3. Console Calculator/3. Console Calculator.csproj",
+      "projectPath": "/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/3. Console Calculator/3. Console Calculator.csproj",
       "packagesPath": "/home/dryerem19/.nuget/packages/",
-      "outputPath": "/home/dryerem19/Документы/CSharp/Console Applications/3. Console Calculator/obj/",
+      "outputPath": "/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/3. Console Calculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/dryerem19/.nuget/NuGet/NuGet.Config"
