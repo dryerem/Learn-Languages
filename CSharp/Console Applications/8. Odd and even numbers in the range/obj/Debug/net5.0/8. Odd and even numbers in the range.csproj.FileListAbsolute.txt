@@ -1,0 +1,16 @@
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/8. Odd and even numbers in the range/obj/Debug/net5.0/8. Odd and even numbers in the range.csprojAssemblyReference.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/8. Odd and even numbers in the range/obj/Debug/net5.0/8. Odd and even numbers in the range.GeneratedMSBuildEditorConfig.editorconfig
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/8. Odd and even numbers in the range/obj/Debug/net5.0/8. Odd and even numbers in the range.AssemblyInfoInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/8. Odd and even numbers in the range/obj/Debug/net5.0/8. Odd and even numbers in the range.AssemblyInfo.cs
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/8. Odd and even numbers in the range/obj/Debug/net5.0/8. Odd and even numbers in the range.csproj.CoreCompileInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/8. Odd and even numbers in the range/bin/Debug/net5.0/8. Odd and even numbers in the range
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/8. Odd and even numbers in the range/bin/Debug/net5.0/8. Odd and even numbers in the range.deps.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/8. Odd and even numbers in the range/bin/Debug/net5.0/8. Odd and even numbers in the range.runtimeconfig.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/8. Odd and even numbers in the range/bin/Debug/net5.0/8. Odd and even numbers in the range.runtimeconfig.dev.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/8. Odd and even numbers in the range/bin/Debug/net5.0/8. Odd and even numbers in the range.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/8. Odd and even numbers in the range/bin/Debug/net5.0/ref/8. Odd and even numbers in the range.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/8. Odd and even numbers in the range/bin/Debug/net5.0/8. Odd and even numbers in the range.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/8. Odd and even numbers in the range/obj/Debug/net5.0/8. Odd and even numbers in the range.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/8. Odd and even numbers in the range/obj/Debug/net5.0/ref/8. Odd and even numbers in the range.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/8. Odd and even numbers in the range/obj/Debug/net5.0/8. Odd and even numbers in the range.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/8. Odd and even numbers in the range/obj/Debug/net5.0/8. Odd and even numbers in the range.genruntimeconfig.cache
