@@ -1,0 +1,16 @@
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/9. Draw rectangle/bin/Debug/net5.0/9. Draw rectangle
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/9. Draw rectangle/bin/Debug/net5.0/9. Draw rectangle.deps.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/9. Draw rectangle/bin/Debug/net5.0/9. Draw rectangle.runtimeconfig.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/9. Draw rectangle/bin/Debug/net5.0/9. Draw rectangle.runtimeconfig.dev.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/9. Draw rectangle/bin/Debug/net5.0/9. Draw rectangle.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/9. Draw rectangle/bin/Debug/net5.0/ref/9. Draw rectangle.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/9. Draw rectangle/bin/Debug/net5.0/9. Draw rectangle.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/9. Draw rectangle/obj/Debug/net5.0/9. Draw rectangle.csprojAssemblyReference.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/9. Draw rectangle/obj/Debug/net5.0/9. Draw rectangle.GeneratedMSBuildEditorConfig.editorconfig
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/9. Draw rectangle/obj/Debug/net5.0/9. Draw rectangle.AssemblyInfoInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/9. Draw rectangle/obj/Debug/net5.0/9. Draw rectangle.AssemblyInfo.cs
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/9. Draw rectangle/obj/Debug/net5.0/9. Draw rectangle.csproj.CoreCompileInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/9. Draw rectangle/obj/Debug/net5.0/9. Draw rectangle.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/9. Draw rectangle/obj/Debug/net5.0/ref/9. Draw rectangle.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/9. Draw rectangle/obj/Debug/net5.0/9. Draw rectangle.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/9. Draw rectangle/obj/Debug/net5.0/9. Draw rectangle.genruntimeconfig.cache
