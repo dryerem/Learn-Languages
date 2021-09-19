@@ -1,0 +1,16 @@
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/14. Reverse array/bin/Debug/net5.0/14. Reverse array
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/14. Reverse array/bin/Debug/net5.0/14. Reverse array.deps.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/14. Reverse array/bin/Debug/net5.0/14. Reverse array.runtimeconfig.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/14. Reverse array/bin/Debug/net5.0/14. Reverse array.runtimeconfig.dev.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/14. Reverse array/bin/Debug/net5.0/14. Reverse array.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/14. Reverse array/bin/Debug/net5.0/ref/14. Reverse array.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/14. Reverse array/bin/Debug/net5.0/14. Reverse array.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/14. Reverse array/obj/Debug/net5.0/14. Reverse array.csprojAssemblyReference.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/14. Reverse array/obj/Debug/net5.0/14. Reverse array.GeneratedMSBuildEditorConfig.editorconfig
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/14. Reverse array/obj/Debug/net5.0/14. Reverse array.AssemblyInfoInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/14. Reverse array/obj/Debug/net5.0/14. Reverse array.AssemblyInfo.cs
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/14. Reverse array/obj/Debug/net5.0/14. Reverse array.csproj.CoreCompileInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/14. Reverse array/obj/Debug/net5.0/14. Reverse array.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/14. Reverse array/obj/Debug/net5.0/ref/14. Reverse array.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/14. Reverse array/obj/Debug/net5.0/14. Reverse array.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/14. Reverse array/obj/Debug/net5.0/14. Reverse array.genruntimeconfig.cache
