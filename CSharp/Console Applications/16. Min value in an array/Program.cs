@@ -25,8 +25,7 @@ namespace Reverse_array
 
 	    int min = array[0]; 
 	    for (int i = 1; i < size; i++)
-		if (array[i] < min)
-		    min = array[i];
+		min = (array[i] < min) ? array[i] : min;
 	    Console.WriteLine("Minimal value: " + min);
         }
     }
