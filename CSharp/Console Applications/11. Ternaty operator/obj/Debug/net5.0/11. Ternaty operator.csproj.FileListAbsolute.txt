@@ -1,0 +1,16 @@
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/11. Ternaty operator/bin/Debug/net5.0/11. Ternaty operator
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/11. Ternaty operator/bin/Debug/net5.0/11. Ternaty operator.deps.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/11. Ternaty operator/bin/Debug/net5.0/11. Ternaty operator.runtimeconfig.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/11. Ternaty operator/bin/Debug/net5.0/11. Ternaty operator.runtimeconfig.dev.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/11. Ternaty operator/bin/Debug/net5.0/11. Ternaty operator.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/11. Ternaty operator/bin/Debug/net5.0/ref/11. Ternaty operator.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/11. Ternaty operator/bin/Debug/net5.0/11. Ternaty operator.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/11. Ternaty operator/obj/Debug/net5.0/11. Ternaty operator.csprojAssemblyReference.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/11. Ternaty operator/obj/Debug/net5.0/11. Ternaty operator.GeneratedMSBuildEditorConfig.editorconfig
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/11. Ternaty operator/obj/Debug/net5.0/11. Ternaty operator.AssemblyInfoInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/11. Ternaty operator/obj/Debug/net5.0/11. Ternaty operator.AssemblyInfo.cs
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/11. Ternaty operator/obj/Debug/net5.0/11. Ternaty operator.csproj.CoreCompileInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/11. Ternaty operator/obj/Debug/net5.0/11. Ternaty operator.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/11. Ternaty operator/obj/Debug/net5.0/ref/11. Ternaty operator.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/11. Ternaty operator/obj/Debug/net5.0/11. Ternaty operator.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/11. Ternaty operator/obj/Debug/net5.0/11. Ternaty operator.genruntimeconfig.cache
