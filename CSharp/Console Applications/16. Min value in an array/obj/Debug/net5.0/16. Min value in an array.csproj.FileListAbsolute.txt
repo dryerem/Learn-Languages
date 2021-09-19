@@ -1,0 +1,16 @@
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/16. Min value in an array/bin/Debug/net5.0/16. Min value in an array
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/16. Min value in an array/bin/Debug/net5.0/16. Min value in an array.deps.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/16. Min value in an array/bin/Debug/net5.0/16. Min value in an array.runtimeconfig.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/16. Min value in an array/bin/Debug/net5.0/16. Min value in an array.runtimeconfig.dev.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/16. Min value in an array/bin/Debug/net5.0/16. Min value in an array.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/16. Min value in an array/bin/Debug/net5.0/ref/16. Min value in an array.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/16. Min value in an array/bin/Debug/net5.0/16. Min value in an array.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/16. Min value in an array/obj/Debug/net5.0/16. Min value in an array.csprojAssemblyReference.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/16. Min value in an array/obj/Debug/net5.0/16. Min value in an array.GeneratedMSBuildEditorConfig.editorconfig
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/16. Min value in an array/obj/Debug/net5.0/16. Min value in an array.AssemblyInfoInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/16. Min value in an array/obj/Debug/net5.0/16. Min value in an array.AssemblyInfo.cs
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/16. Min value in an array/obj/Debug/net5.0/16. Min value in an array.csproj.CoreCompileInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/16. Min value in an array/obj/Debug/net5.0/16. Min value in an array.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/16. Min value in an array/obj/Debug/net5.0/ref/16. Min value in an array.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/16. Min value in an array/obj/Debug/net5.0/16. Min value in an array.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/16. Min value in an array/obj/Debug/net5.0/16. Min value in an array.genruntimeconfig.cache
