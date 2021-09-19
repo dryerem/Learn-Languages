@@ -1,0 +1,16 @@
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/10. Draw triangle/obj/Debug/net5.0/10. Draw triangle.csprojAssemblyReference.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/10. Draw triangle/obj/Debug/net5.0/10. Draw triangle.GeneratedMSBuildEditorConfig.editorconfig
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/10. Draw triangle/obj/Debug/net5.0/10. Draw triangle.AssemblyInfoInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/10. Draw triangle/obj/Debug/net5.0/10. Draw triangle.AssemblyInfo.cs
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/10. Draw triangle/obj/Debug/net5.0/10. Draw triangle.csproj.CoreCompileInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/10. Draw triangle/bin/Debug/net5.0/10. Draw triangle
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/10. Draw triangle/bin/Debug/net5.0/10. Draw triangle.deps.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/10. Draw triangle/bin/Debug/net5.0/10. Draw triangle.runtimeconfig.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/10. Draw triangle/bin/Debug/net5.0/10. Draw triangle.runtimeconfig.dev.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/10. Draw triangle/bin/Debug/net5.0/10. Draw triangle.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/10. Draw triangle/bin/Debug/net5.0/ref/10. Draw triangle.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/10. Draw triangle/bin/Debug/net5.0/10. Draw triangle.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/10. Draw triangle/obj/Debug/net5.0/10. Draw triangle.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/10. Draw triangle/obj/Debug/net5.0/ref/10. Draw triangle.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/10. Draw triangle/obj/Debug/net5.0/10. Draw triangle.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/10. Draw triangle/obj/Debug/net5.0/10. Draw triangle.genruntimeconfig.cache
