@@ -1,0 +1,16 @@
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/12. Test array/bin/Debug/net5.0/12. Test array
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/12. Test array/bin/Debug/net5.0/12. Test array.deps.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/12. Test array/bin/Debug/net5.0/12. Test array.runtimeconfig.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/12. Test array/bin/Debug/net5.0/12. Test array.runtimeconfig.dev.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/12. Test array/bin/Debug/net5.0/12. Test array.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/12. Test array/bin/Debug/net5.0/ref/12. Test array.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/12. Test array/bin/Debug/net5.0/12. Test array.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/12. Test array/obj/Debug/net5.0/12. Test array.csprojAssemblyReference.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/12. Test array/obj/Debug/net5.0/12. Test array.GeneratedMSBuildEditorConfig.editorconfig
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/12. Test array/obj/Debug/net5.0/12. Test array.AssemblyInfoInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/12. Test array/obj/Debug/net5.0/12. Test array.AssemblyInfo.cs
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/12. Test array/obj/Debug/net5.0/12. Test array.csproj.CoreCompileInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/12. Test array/obj/Debug/net5.0/12. Test array.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/12. Test array/obj/Debug/net5.0/ref/12. Test array.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/12. Test array/obj/Debug/net5.0/12. Test array.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/12. Test array/obj/Debug/net5.0/12. Test array.genruntimeconfig.cache
