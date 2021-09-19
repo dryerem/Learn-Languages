@@ -37,6 +37,9 @@ namespace Test_array
 	     * запись выше можно записать как:
 	     *
 	     * int[] array_c = new[] {3, 4, 5};
+	     *
+	     * можно также не указывать *new[]*:
+	     * int[] array_C = {3, 4, 5};
 	     */
 		
 	    Console.Write("array a: ");
