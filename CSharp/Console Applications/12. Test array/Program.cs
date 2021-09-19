@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Test_array
 {
@@ -56,6 +57,26 @@ namespace Test_array
 	    for (int i = 0; i < array_c.Length; i++)
 		Console.Write(array_c[i] + " ");
 	    Console.WriteLine("\nLength of array: " + array_c.Length + "\n");
+		
+	    /* Метод Repeat класса Enumerable проинициализирует 
+	     * массив на 5 элементов числом 3. 
+	     * Для этого необходимо подключить System.Linq.
+	     */ 
+	    Console.Write("array d: ");
+	    int[] array_d = Enumerable.Repeat(3, 5).ToArray();
+	    for (int i = 0; i < array_d.Length; i++)
+	    	Console.Write(array_d[i] + " ");
+	    Console.WriteLine("\nLength of array: " + array_d.Length + "\n");
+		
+	    /* Метод Range класса Enumerable из библиотеки System.Linq
+	     * позволяет инициализировать массив на 20 элементов,
+	     * начиная с кого-то стартового, в данном случае 10
+	     */
+	    Console.Write("array e: ");
+	    int[] array_e = Enumerable.Range(10, 20).ToArray();
+	    for (int i = 0; i < array_e.Length; i++)
+	    	Console.Write(array_e[i] + " ");
+	    Console.WriteLine("\nLength of array: " + array_e.Length + "\n");
 
 	    /* При попытке обратиться к элементу массива по индексу 
 	     * за его пределами, будем выбрашено исключение
