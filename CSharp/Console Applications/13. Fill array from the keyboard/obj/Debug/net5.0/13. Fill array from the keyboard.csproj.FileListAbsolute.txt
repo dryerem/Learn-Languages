@@ -1,0 +1,16 @@
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/13. Fill array from the keyboard/bin/Debug/net5.0/13. Fill array from the keyboard
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/13. Fill array from the keyboard/bin/Debug/net5.0/13. Fill array from the keyboard.deps.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/13. Fill array from the keyboard/bin/Debug/net5.0/13. Fill array from the keyboard.runtimeconfig.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/13. Fill array from the keyboard/bin/Debug/net5.0/13. Fill array from the keyboard.runtimeconfig.dev.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/13. Fill array from the keyboard/bin/Debug/net5.0/13. Fill array from the keyboard.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/13. Fill array from the keyboard/bin/Debug/net5.0/ref/13. Fill array from the keyboard.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/13. Fill array from the keyboard/bin/Debug/net5.0/13. Fill array from the keyboard.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/13. Fill array from the keyboard/obj/Debug/net5.0/13. Fill array from the keyboard.csprojAssemblyReference.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/13. Fill array from the keyboard/obj/Debug/net5.0/13. Fill array from the keyboard.GeneratedMSBuildEditorConfig.editorconfig
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/13. Fill array from the keyboard/obj/Debug/net5.0/13. Fill array from the keyboard.AssemblyInfoInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/13. Fill array from the keyboard/obj/Debug/net5.0/13. Fill array from the keyboard.AssemblyInfo.cs
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/13. Fill array from the keyboard/obj/Debug/net5.0/13. Fill array from the keyboard.csproj.CoreCompileInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/13. Fill array from the keyboard/obj/Debug/net5.0/13. Fill array from the keyboard.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/13. Fill array from the keyboard/obj/Debug/net5.0/ref/13. Fill array from the keyboard.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/13. Fill array from the keyboard/obj/Debug/net5.0/13. Fill array from the keyboard.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/13. Fill array from the keyboard/obj/Debug/net5.0/13. Fill array from the keyboard.genruntimeconfig.cache
