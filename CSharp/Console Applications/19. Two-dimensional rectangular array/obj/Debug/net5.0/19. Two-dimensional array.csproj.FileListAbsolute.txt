@@ -1,0 +1,16 @@
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/19. Two-dimensional array/obj/Debug/net5.0/19. Two-dimensional array.csprojAssemblyReference.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/19. Two-dimensional array/obj/Debug/net5.0/19. Two-dimensional array.GeneratedMSBuildEditorConfig.editorconfig
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/19. Two-dimensional array/obj/Debug/net5.0/19. Two-dimensional array.AssemblyInfoInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/19. Two-dimensional array/obj/Debug/net5.0/19. Two-dimensional array.AssemblyInfo.cs
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/19. Two-dimensional array/obj/Debug/net5.0/19. Two-dimensional array.csproj.CoreCompileInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/19. Two-dimensional array/bin/Debug/net5.0/19. Two-dimensional array
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/19. Two-dimensional array/bin/Debug/net5.0/19. Two-dimensional array.deps.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/19. Two-dimensional array/bin/Debug/net5.0/19. Two-dimensional array.runtimeconfig.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/19. Two-dimensional array/bin/Debug/net5.0/19. Two-dimensional array.runtimeconfig.dev.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/19. Two-dimensional array/bin/Debug/net5.0/19. Two-dimensional array.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/19. Two-dimensional array/bin/Debug/net5.0/ref/19. Two-dimensional array.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/19. Two-dimensional array/bin/Debug/net5.0/19. Two-dimensional array.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/19. Two-dimensional array/obj/Debug/net5.0/19. Two-dimensional array.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/19. Two-dimensional array/obj/Debug/net5.0/ref/19. Two-dimensional array.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/19. Two-dimensional array/obj/Debug/net5.0/19. Two-dimensional array.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/19. Two-dimensional array/obj/Debug/net5.0/19. Two-dimensional array.genruntimeconfig.cache
