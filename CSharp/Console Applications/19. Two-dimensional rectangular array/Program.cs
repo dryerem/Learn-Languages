@@ -19,11 +19,17 @@ namespace Two_dimensional_array
 	    }
 
 	    Console.WriteLine("myArray: ");
-	    for (int row = 0; row < 4; row++)
+	    /*
+	     * The GetLength property returns the length of the subarray, for 
+	     * this it needs to specify the dimension (subarray) whose length 
+	     * we want to get. 
+	     * measurements are indicated from scratch.
+	    */
+	    for (int i = 0; i < myArray.GetLength(0); i++)
 	    {
-		for (int column = 0; column < 2; column++)
+		for (int j = 0; j < myArray.GetLength(1); j++)
 		{
-		    Console.Write(myArray[row, column] + "\t");
+		    Console.Write(myArray[i, j] + "\t");
 		}
 		Console.WriteLine();
 	    }
