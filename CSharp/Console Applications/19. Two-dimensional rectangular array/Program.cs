@@ -52,6 +52,29 @@ namespace Two_dimensional_array
 		}
 		Console.WriteLine();
 	    }
+
+	    /*
+	     * Filling an array with random numbers.
+	     * Заполнение массива случайными числами.
+	     */
+	    Console.WriteLine("myArray random filling: ");
+	    Random rand = new Random();
+	    for (int i = 0; i < myArray.GetLength(0); i++)
+	    {
+ 		for (int j = 0; j < myArray.GetLength(1); j++)
+		{
+		    myArray[i, j] = rand.Next(0, 255);
+		}
+	    }
+
+	    for (int i = 0; i < myArray.GetLength(0); i++)
+	    {
+	 	for (int j = 0; j < myArray.GetLength(1); j++)
+		{
+		    Console.Write(myArray[i, j] + "\t");
+		}
+		Console.WriteLine();
+	    }
         }
     }
 }
