@@ -1,0 +1,16 @@
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/17. Array linq/bin/Debug/net5.0/17. Array linq
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/17. Array linq/bin/Debug/net5.0/17. Array linq.deps.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/17. Array linq/bin/Debug/net5.0/17. Array linq.runtimeconfig.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/17. Array linq/bin/Debug/net5.0/17. Array linq.runtimeconfig.dev.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/17. Array linq/bin/Debug/net5.0/17. Array linq.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/17. Array linq/bin/Debug/net5.0/ref/17. Array linq.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/17. Array linq/bin/Debug/net5.0/17. Array linq.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/17. Array linq/obj/Debug/net5.0/17. Array linq.csprojAssemblyReference.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/17. Array linq/obj/Debug/net5.0/17. Array linq.GeneratedMSBuildEditorConfig.editorconfig
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/17. Array linq/obj/Debug/net5.0/17. Array linq.AssemblyInfoInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/17. Array linq/obj/Debug/net5.0/17. Array linq.AssemblyInfo.cs
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/17. Array linq/obj/Debug/net5.0/17. Array linq.csproj.CoreCompileInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/17. Array linq/obj/Debug/net5.0/17. Array linq.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/17. Array linq/obj/Debug/net5.0/ref/17. Array linq.dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/17. Array linq/obj/Debug/net5.0/17. Array linq.pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/17. Array linq/obj/Debug/net5.0/17. Array linq.genruntimeconfig.cache
