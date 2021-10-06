@@ -1,0 +1,16 @@
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/21. 3D Arrays (трехмерные массивы)/bin/Debug/net5.0/21. 3D Arrays (трехмерные массивы)
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/21. 3D Arrays (трехмерные массивы)/bin/Debug/net5.0/21. 3D Arrays (трехмерные массивы).deps.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/21. 3D Arrays (трехмерные массивы)/bin/Debug/net5.0/21. 3D Arrays (трехмерные массивы).runtimeconfig.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/21. 3D Arrays (трехмерные массивы)/bin/Debug/net5.0/21. 3D Arrays (трехмерные массивы).runtimeconfig.dev.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/21. 3D Arrays (трехмерные массивы)/bin/Debug/net5.0/21. 3D Arrays (трехмерные массивы).dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/21. 3D Arrays (трехмерные массивы)/bin/Debug/net5.0/ref/21. 3D Arrays (трехмерные массивы).dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/21. 3D Arrays (трехмерные массивы)/bin/Debug/net5.0/21. 3D Arrays (трехмерные массивы).pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/21. 3D Arrays (трехмерные массивы)/obj/Debug/net5.0/21. 3D Arrays (трехмерные массивы).csprojAssemblyReference.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/21. 3D Arrays (трехмерные массивы)/obj/Debug/net5.0/21. 3D Arrays (трехмерные массивы).GeneratedMSBuildEditorConfig.editorconfig
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/21. 3D Arrays (трехмерные массивы)/obj/Debug/net5.0/21. 3D Arrays (трехмерные массивы).AssemblyInfoInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/21. 3D Arrays (трехмерные массивы)/obj/Debug/net5.0/21. 3D Arrays (трехмерные массивы).AssemblyInfo.cs
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/21. 3D Arrays (трехмерные массивы)/obj/Debug/net5.0/21. 3D Arrays (трехмерные массивы).csproj.CoreCompileInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/21. 3D Arrays (трехмерные массивы)/obj/Debug/net5.0/21. 3D Arrays (трехмерные массивы).dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/21. 3D Arrays (трехмерные массивы)/obj/Debug/net5.0/ref/21. 3D Arrays (трехмерные массивы).dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/21. 3D Arrays (трехмерные массивы)/obj/Debug/net5.0/21. 3D Arrays (трехмерные массивы).pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/21. 3D Arrays (трехмерные массивы)/obj/Debug/net5.0/21. 3D Arrays (трехмерные массивы).genruntimeconfig.cache
