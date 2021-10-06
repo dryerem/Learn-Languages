@@ -1,0 +1,15 @@
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\Rectangle_MouseEvents\Rectangle_MouseEvents\bin\Debug\Rectangle_MouseEvents.exe.config
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\Rectangle_MouseEvents\Rectangle_MouseEvents\bin\Debug\Rectangle_MouseEvents.exe
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\Rectangle_MouseEvents\Rectangle_MouseEvents\bin\Debug\Rectangle_MouseEvents.pdb
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\Rectangle_MouseEvents\Rectangle_MouseEvents\obj\Debug\Rectangle_MouseEvents.csprojAssemblyReference.cache
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\Rectangle_MouseEvents\Rectangle_MouseEvents\obj\Debug\MainWindow.g.cs
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\Rectangle_MouseEvents\Rectangle_MouseEvents\obj\Debug\App.g.cs
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\Rectangle_MouseEvents\Rectangle_MouseEvents\obj\Debug\Rectangle_MouseEvents_MarkupCompile.cache
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\Rectangle_MouseEvents\Rectangle_MouseEvents\obj\Debug\Rectangle_MouseEvents_MarkupCompile.lref
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\Rectangle_MouseEvents\Rectangle_MouseEvents\obj\Debug\MainWindow.baml
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\Rectangle_MouseEvents\Rectangle_MouseEvents\obj\Debug\Rectangle_MouseEvents.g.resources
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\Rectangle_MouseEvents\Rectangle_MouseEvents\obj\Debug\Rectangle_MouseEvents.Properties.Resources.resources
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\Rectangle_MouseEvents\Rectangle_MouseEvents\obj\Debug\Rectangle_MouseEvents.csproj.GenerateResource.cache
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\Rectangle_MouseEvents\Rectangle_MouseEvents\obj\Debug\Rectangle_MouseEvents.csproj.CoreCompileInputs.cache
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\Rectangle_MouseEvents\Rectangle_MouseEvents\obj\Debug\Rectangle_MouseEvents.exe
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\Rectangle_MouseEvents\Rectangle_MouseEvents\obj\Debug\Rectangle_MouseEvents.pdb

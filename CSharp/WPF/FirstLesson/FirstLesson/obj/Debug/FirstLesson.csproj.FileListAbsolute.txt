@@ -1,0 +1,15 @@
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\FirstLesson\FirstLesson\bin\Debug\FirstLesson.exe.config
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\FirstLesson\FirstLesson\bin\Debug\FirstLesson.exe
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\FirstLesson\FirstLesson\bin\Debug\FirstLesson.pdb
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\FirstLesson\FirstLesson\obj\Debug\FirstLesson.csprojAssemblyReference.cache
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\FirstLesson\FirstLesson\obj\Debug\MainWindow.g.cs
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\FirstLesson\FirstLesson\obj\Debug\App.g.cs
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\FirstLesson\FirstLesson\obj\Debug\FirstLesson_MarkupCompile.cache
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\FirstLesson\FirstLesson\obj\Debug\FirstLesson_MarkupCompile.lref
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\FirstLesson\FirstLesson\obj\Debug\MainWindow.baml
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\FirstLesson\FirstLesson\obj\Debug\FirstLesson.g.resources
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\FirstLesson\FirstLesson\obj\Debug\FirstLesson.Properties.Resources.resources
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\FirstLesson\FirstLesson\obj\Debug\FirstLesson.csproj.GenerateResource.cache
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\FirstLesson\FirstLesson\obj\Debug\FirstLesson.csproj.CoreCompileInputs.cache
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\FirstLesson\FirstLesson\obj\Debug\FirstLesson.exe
+E:\GitHub Projects\Learn-Languages\CSharp\WPF\FirstLesson\FirstLesson\obj\Debug\FirstLesson.pdb
