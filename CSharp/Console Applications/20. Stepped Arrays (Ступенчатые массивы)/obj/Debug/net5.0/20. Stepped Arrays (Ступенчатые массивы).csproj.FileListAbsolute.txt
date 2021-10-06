@@ -1,0 +1,16 @@
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/20. Stepped Arrays (Ступенчатые массивы)/bin/Debug/net5.0/20. Stepped Arrays (Ступенчатые массивы)
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/20. Stepped Arrays (Ступенчатые массивы)/bin/Debug/net5.0/20. Stepped Arrays (Ступенчатые массивы).deps.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/20. Stepped Arrays (Ступенчатые массивы)/bin/Debug/net5.0/20. Stepped Arrays (Ступенчатые массивы).runtimeconfig.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/20. Stepped Arrays (Ступенчатые массивы)/bin/Debug/net5.0/20. Stepped Arrays (Ступенчатые массивы).runtimeconfig.dev.json
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/20. Stepped Arrays (Ступенчатые массивы)/bin/Debug/net5.0/20. Stepped Arrays (Ступенчатые массивы).dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/20. Stepped Arrays (Ступенчатые массивы)/bin/Debug/net5.0/ref/20. Stepped Arrays (Ступенчатые массивы).dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/20. Stepped Arrays (Ступенчатые массивы)/bin/Debug/net5.0/20. Stepped Arrays (Ступенчатые массивы).pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/20. Stepped Arrays (Ступенчатые массивы)/obj/Debug/net5.0/20. Stepped Arrays (Ступенчатые массивы).csprojAssemblyReference.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/20. Stepped Arrays (Ступенчатые массивы)/obj/Debug/net5.0/20. Stepped Arrays (Ступенчатые массивы).GeneratedMSBuildEditorConfig.editorconfig
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/20. Stepped Arrays (Ступенчатые массивы)/obj/Debug/net5.0/20. Stepped Arrays (Ступенчатые массивы).AssemblyInfoInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/20. Stepped Arrays (Ступенчатые массивы)/obj/Debug/net5.0/20. Stepped Arrays (Ступенчатые массивы).AssemblyInfo.cs
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/20. Stepped Arrays (Ступенчатые массивы)/obj/Debug/net5.0/20. Stepped Arrays (Ступенчатые массивы).csproj.CoreCompileInputs.cache
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/20. Stepped Arrays (Ступенчатые массивы)/obj/Debug/net5.0/20. Stepped Arrays (Ступенчатые массивы).dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/20. Stepped Arrays (Ступенчатые массивы)/obj/Debug/net5.0/ref/20. Stepped Arrays (Ступенчатые массивы).dll
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/20. Stepped Arrays (Ступенчатые массивы)/obj/Debug/net5.0/20. Stepped Arrays (Ступенчатые массивы).pdb
+/home/dryerem19/Документы/Learn Languages/CSharp/Console Applications/20. Stepped Arrays (Ступенчатые массивы)/obj/Debug/net5.0/20. Stepped Arrays (Ступенчатые массивы).genruntimeconfig.cache
