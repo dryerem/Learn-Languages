@@ -1,0 +1,15 @@
+E:\GitHub Projects\Learn-Languages\CSharp\Xamarin\FirstApp\FirstApp\FirstApp\bin\Debug\netstandard2.0\FirstApp.deps.json
+E:\GitHub Projects\Learn-Languages\CSharp\Xamarin\FirstApp\FirstApp\FirstApp\bin\Debug\netstandard2.0\FirstApp.dll
+E:\GitHub Projects\Learn-Languages\CSharp\Xamarin\FirstApp\FirstApp\FirstApp\bin\Debug\netstandard2.0\ref\FirstApp.dll
+E:\GitHub Projects\Learn-Languages\CSharp\Xamarin\FirstApp\FirstApp\FirstApp\bin\Debug\netstandard2.0\FirstApp.pdb
+E:\GitHub Projects\Learn-Languages\CSharp\Xamarin\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.csprojAssemblyReference.cache
+E:\GitHub Projects\Learn-Languages\CSharp\Xamarin\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\GitHub Projects\Learn-Languages\CSharp\Xamarin\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\GitHub Projects\Learn-Languages\CSharp\Xamarin\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.AssemblyInfoInputs.cache
+E:\GitHub Projects\Learn-Languages\CSharp\Xamarin\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.AssemblyInfo.cs
+E:\GitHub Projects\Learn-Languages\CSharp\Xamarin\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.csproj.CoreCompileInputs.cache
+E:\GitHub Projects\Learn-Languages\CSharp\Xamarin\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\XamlC.stamp
+E:\GitHub Projects\Learn-Languages\CSharp\Xamarin\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.dll
+E:\GitHub Projects\Learn-Languages\CSharp\Xamarin\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\ref\FirstApp.dll
+E:\GitHub Projects\Learn-Languages\CSharp\Xamarin\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.pdb
+E:\GitHub Projects\Learn-Languages\CSharp\Xamarin\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\StudentPage.xaml.g.cs
